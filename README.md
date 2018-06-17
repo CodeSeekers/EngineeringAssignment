@@ -16,7 +16,6 @@
       <li>      <a href="https://rosettacode.org/wiki/Category:JavaScript">JavaScript</a> </li>
       <li>      <a href="https://rosettacode.org/wiki/Category:Python">Python</a> </li>
       <li>      <a href="https://rosettacode.org/wiki/Category:Ruby">Ruby</a> </li>            
-          
       </ul>
     <li>Project Euler</li>
 
